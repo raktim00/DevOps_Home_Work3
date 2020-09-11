@@ -35,7 +35,7 @@ spec:
    selector:
      matchLabels:
          app: webdeploy
-   replicas: 2
+   replicas: 1
    template:
      metadata:
          labels:
